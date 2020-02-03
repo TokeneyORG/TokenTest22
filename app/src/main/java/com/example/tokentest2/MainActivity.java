@@ -12,4 +12,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
-//u gayS
+//Hello, do you want some candy? I have my van over there, just get in please.g
